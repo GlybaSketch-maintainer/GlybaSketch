@@ -26,6 +26,3 @@ GlybaSketch распространяется под лицензией Glyba Pub
 
 
 ![alt text](logo-face.jpg)
-
-  git config --global user.email "GlybaSketch@gmail.com"
-  git config --global user.name "GlybaSketch Maintainer"
